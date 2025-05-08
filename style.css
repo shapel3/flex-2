@@ -55,6 +55,7 @@
 .feedback-author-prof{
     margin: 0;
     text-transform: capitalize;
+    font-size: 0.7em;
 }
 .feedback-author.green{
     color: green;
